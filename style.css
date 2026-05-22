@@ -287,7 +287,7 @@ i:hover{
 
 .img{
     height:100%;
-    width:calc(100% /8);
+    width:5rem;
     background-size: contain;
     background-repeat: no-repeat;
     border-top-left-radius: 7px;
